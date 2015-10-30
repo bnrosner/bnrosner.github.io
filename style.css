@@ -2,7 +2,7 @@ body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
   background: url(Princeton_Tigers_logo.png) repeat;
-  background-size: 8px;
+  background-size: 3px;
 }
 
 #profilephoto {
@@ -26,9 +26,9 @@ body {
 .profilesections {
   color: white;
   font-weight: 600;
-  border: 1px solid purple;
+  border: 3px inset orange;
   text-align: center;
-  background-color: purple;
+  background-color: black;
 }
 
 #summary {
